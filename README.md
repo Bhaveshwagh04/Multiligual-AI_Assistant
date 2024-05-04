@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+# Multilingual AI Assistant
 # How to run?
 
 # STEPS:
