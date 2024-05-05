@@ -1,0 +1,9 @@
+README.md
+setup.py
+Multilingual_Assistance.egg-info/PKG-INFO
+Multilingual_Assistance.egg-info/SOURCES.txt
+Multilingual_Assistance.egg-info/dependency_links.txt
+Multilingual_Assistance.egg-info/requires.txt
+Multilingual_Assistance.egg-info/top_level.txt
+src/__init__.py
+src/helper.py

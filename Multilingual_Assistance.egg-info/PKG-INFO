@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: Multilingual-Assistance
+Version: 0.0.1
+Author: Bhavesh Wagh
+Author-email: bhaveshwaghbw.49@gmail.com
+Requires-Dist: SpeechRecognition
+Requires-Dist: pipwin
+Requires-Dist: pyaudio
+Requires-Dist: gTTS
+Requires-Dist: google-generativeai
+Requires-Dist: python-dotenv
+Requires-Dist: streamlit
